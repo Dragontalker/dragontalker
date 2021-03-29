@@ -33,6 +33,9 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
