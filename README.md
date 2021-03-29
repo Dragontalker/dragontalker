@@ -8,14 +8,14 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!-- TODO: Add last video link -->
 
-- :100: I’m currently studing in a coding bootcamp @ University of Toronto
-- :computer: Most used line of code `git commit -m "Initial Commit"`
-- :fire:I’m looking for interesting porjects.
+- :100: I’m currently studing in a coding bootcamp @ University of Toronto.
+- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- :fire: I’m looking for interesting porjects.
 - 📫 How to reach me: richard.yang.tong@gmail.com.
-- :books: Favorite Books: Foundhead, Atlas Shrugged, 12 Rules of Life
+- :books: Favorite Books: `Fountainhead`, `Atlas Shrugged`, `12 Rules of Life`.
 - ⚡ Fun fact: I am a huge fan of Tesla and (of course) Space X!
 
-#### Top Technologies
+#### My Current Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -58,6 +58,6 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=tokyonight)
+![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=dracula)
 
 </details>
