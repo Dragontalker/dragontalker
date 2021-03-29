@@ -29,7 +29,7 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dragontalker.dragontalker)
 
 <details>
 <summary>
