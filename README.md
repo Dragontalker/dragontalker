@@ -8,12 +8,12 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently working at @Toptal
+- :100: I’m currently studing in a coding bootcamp @ University of Toronto
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
-- ⚡ Fun fact: I play games and go to the GYM very often.
+- :fire:I’m looking for interesting porjects.
+- 📫 How to reach me: richard.yang.tong@gmail.com.
+- :books: Favorite Books: Foundhead, Atlas Shrugged, 12 Rules of Life
+- ⚡ Fun fact: I am a huge fan of Tesla and (of course) Space X!
 
 #### Top Technologies
 
