@@ -4,7 +4,7 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Draogontalker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dragontalker)](https://twitter.com/Ipenywis) [![Linkedin Badge](https://img.shields.io/badge/-Tong(Richard)-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-yang-tong/) [![Mail Badge](https://img.shields.io/badge/-richard.yang.tong@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](richard.yang.tong@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Draogontalker-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Dragontalker)](https://twitter.com/Ipenywis) [![Linkedin Badge](<https://img.shields.io/badge/-Tong(Richard)-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white>)](https://www.linkedin.com/in/richard-yang-tong/) [![Mail Badge](https://img.shields.io/badge/-richard.yang.tong@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](richard.yang.tong@gmail.com)
 
 <!-- TODO: Add last video link -->
 
@@ -19,31 +19,31 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
- [![MonogoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Express.JS-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
-
+[![MonogoDB Badge](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3FA037)](#) [![ExpressJS Badge](https://img.shields.io/badge/-Express.JS-F0DB4F?style=for-the-badge&labelColor=black&logo=express&logoColor=F0DB4F)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
 
 #### Bizness
+
 - :paperclip: [My Resume/CV](https://docs.google.com/document/d/172MHlXEIeXijrEXjlA4M_-OV4Es8vsq0tPKOkXW4oAQ/edit?usp=sharing)
 - :email: richard.yang.tong@gmail.com
 
-
-#### Profile Visits 
+#### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dragontalker.dragontalker)
-
 
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 %
+HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=radical)
+![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=radical&hide=contribs)
