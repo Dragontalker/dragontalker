@@ -46,4 +46,4 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=dracula)
+![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=radical)
