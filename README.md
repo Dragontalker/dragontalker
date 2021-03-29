@@ -12,7 +12,7 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 - :computer: Most used line of code `git commit -m "Initial Commit"`.
 - :fire: I’m looking for interesting porjects.
 - 📫 How to reach me: richard.yang.tong@gmail.com.
-- :books: Favorite Books: `The Fountainhead`, `Atlas Shrugged`, `12 Rules of Life`.
+- :books: Favorite Books: `The Fountainhead`, `Atlas Shrugged`, `Dune`, `三体` `12 Rules of Life`.
 - ⚡ Fun fact: I am a huge fan of Tesla and (of course) Space X!
 
 #### My Current Stack
