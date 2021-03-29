@@ -31,18 +31,6 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dragontalker.dragontalker)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
-
-#### What is CoderOne?
-
-CoderOne is a youtube channel for learning Web/Mobile development, coding and design. Including new technologies and frameworks and anything really related to development world.
 
 #### Coding Stats
 
@@ -59,5 +47,3 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 #### Github Stats
 
 ![Dragontalker's github stats](https://github-readme-stats.vercel.app/api?username=dragontalker&count_private=true&theme=dracula)
-
-</details>
