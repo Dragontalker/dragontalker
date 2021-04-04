@@ -9,7 +9,7 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 <!-- TODO: Add last video link -->
 
 - :100: I’m currently studing in a coding bootcamp @ University of Toronto.
-- :computer: Most used line of code `git commit -m "Initial Commit"`.
+- 🦋 I am an enthusiast of chaotic system. And yes, I am working my way towards chaos engineering.
 - :fire: I’m looking for interesting porjects.
 - 📫 How to reach me: richard.yang.tong@gmail.com.
 - :books: Favorite Books: `The Fountainhead`, `Atlas Shrugged`, `Dune`, `三体` `12 Rules of Life`.
