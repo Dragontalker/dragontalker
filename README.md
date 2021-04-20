@@ -8,12 +8,11 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!-- TODO: Add last video link -->
 
-- :100: I’m currently studing in a coding bootcamp @ University of Toronto.
-- 🦋 I am an enthusiast of chaotic system. And yes, I am working my way towards chaos engineering.
+- 🐉 I am a software engineer who loves TypeScript and Golang!
+- 🐳 I love Docker and Kubernetes!
 - :fire: I’m looking for interesting porjects.
-- 📫 How to reach me: richard.yang.tong@gmail.com.
-- :books: Favorite Books: `The Fountainhead`, `Atlas Shrugged`, `Dune`, `三体` `12 Rules of Life`.
-- ⚡ Fun fact: I am a huge fan of Tesla and (of course) Space X!
+- :books: Favorite Books: `Out of Control`, `Dune`, `Homo Deus: A Brief History of Tomorrow`.
+- 🚀 Fun fact: I am a huge fan of Tesla and (of course) Space X!
 
 #### My Current Stack
 
