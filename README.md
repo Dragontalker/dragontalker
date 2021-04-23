@@ -33,11 +33,11 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   11 hrs 14 mins  ███████████████████▒░░░░░   77.62 % 
-HTML         1 hr 39 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
-Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Go           20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+TypeScript   11 hrs 45 mins  ██████████████████▓░░░░░░   74.14 % 
+HTML         1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+JavaScript   36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Go           29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 <!--END_SECTION:waka-->
 
