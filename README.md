@@ -33,7 +33,7 @@ I'm Tong (Richard) Yang a Full Stack Web Developer and Software Engineer. I spen
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   5 mins          █████████████████████████   100.00 % 
+Git Config   5 mins          ██████████████████████▒░░   89.23 % 
 ```
 <!--END_SECTION:waka-->
 
